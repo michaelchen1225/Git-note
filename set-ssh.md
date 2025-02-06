@@ -34,7 +34,7 @@ ssh -T git@gitlab.com
 Welcome to GitLab, @yourUsername!
 ```
 
-* 將 repo 的 url 設定為使用 ssh url：
+* 最後將 repo 的 url 設定為使用 ssh url：
 
 ```bash
 git remote set-url origin <ssh-url>
