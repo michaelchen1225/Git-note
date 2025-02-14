@@ -37,10 +37,16 @@ Welcome to GitLab, @yourUsername!
 * 最後將 repo 的 url 設定為使用 ssh url：
 
 ```bash
+# 新增遠端儲存庫
+git remote add origin <ssh-url>
+```
+
+```bash
+# 替換原有的 url
 git remote set-url origin <ssh-url>
 ```
 
-> ssh url：
+> ssh url 位置位置
 
 **GitHub**
 
