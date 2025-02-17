@@ -50,7 +50,8 @@ git remote set-url origin <ssh-url>
 
 **GitHub**
 
-![alt text](image.png)
+<img src="image.png" width="300px">
+
 
 **GitLab**
 
