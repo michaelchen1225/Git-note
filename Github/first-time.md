@@ -128,7 +128,7 @@ git config --global --list
 
 填完名稱和描述後，其他都可以先維持預設，然後點擊最下方「Create repository」的綠色按鈕，這樣我們就建立了一個新的儲存庫：
 
-<img src="image-4.png" width="500px">
+<img src="image-4.png" width="800px">
 
 ### Step 4：設定 SSH 金鑰
 
@@ -158,15 +158,15 @@ git config --global --list
 
 * 接著登入 [GitHub](https://github.com)，點開右上角的頭像，找到「Settings」：
 
-  <img src="image-5.png" width="300px">
+  <img src="image-5.png" width="500px">
 
 * 進入「Settings」後，點開左側選單中的「SSH and GPG keys」：
 
-  <img src="image-6.png" width="300px">
+  <img src="image-6.png" width="500px">
 
 * 點開綠色的「**New SSH key**」按鈕，在「Title」欄位填入一個描述（例如：`My Laptop`），並將剛才複製的 `id_rsa.pub` 的內容貼到「Key」欄位中，最後點擊「**Add SSH key**」：
 
-  <img src="image-7.png" width="300px">
+  <img src="image-7.png" width="800px">
 
 
 * 這樣我們就成功將公鑰添加到 GitHub 上了。我們回到終端機，來測試一下 SSH 金鑰是否設定成功：
