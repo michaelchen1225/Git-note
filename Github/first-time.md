@@ -87,7 +87,7 @@ OK，以下我們就從下載 Git 開始，一步步地把一個新專案丟到 
 
 首先，你的電腦上必須要先有 Git。可以到 [Git 官網](https://git-scm.com/downloads) 下載適合你作業系統的版本。
 
-<img src="image-1.png" width="400px">
+<img src="image-1.png" width="800px">
 
 > 如果選擇 windows 的話(https://git-scm.com/downloads/win)，一般都是選擇「Git for Windows/x64 Setup.」
 
