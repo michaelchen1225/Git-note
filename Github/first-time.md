@@ -89,7 +89,7 @@ OK，以下我們就從下載 Git 開始，一步步地把一個新專案丟到 
 
 <img src="image-1.png" width="800px">
 
-> 如果選擇 windows 的話(https://git-scm.com/downloads/win)，一般都是選擇「Git for Windows/x64 Setup.」
+> 如果選擇 windows 的話，一般都是選擇「[Git for Windows/x64 Setup.]((https://git-scm.com/downloads/win))」
 
 ### Step 2：初次設定 Git
 
