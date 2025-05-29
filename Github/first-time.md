@@ -6,7 +6,7 @@
 
 * [Git 是什麼？](#git-是什麼？)
 * [GitHub 是什麼？](#github-是什麼？)
-* [我能用 GitHub 做什麼？](#我能用-github-做什麼？)
+* [我能用 GitHub 做什麼？](#我能用-github-做什麼)
 * [建立第一個 GitHub 專案](#建立第一個-github-專案)
   * [Step 1: 下載 Git](#step-1-下載-git)
   * [Step 2：初次設定 Git](#step-2初次設定-git)
