@@ -34,9 +34,9 @@
 
 * **高效 & 安全**：Git 對版本記錄的處理方式快速且難以被篡改。
 
-> 分支的概念：
+> 分支概念圖：
 
-<img src="image-9.png" width="400px">
+<img src="image-14.png" width="400px">
 
 
 ---
