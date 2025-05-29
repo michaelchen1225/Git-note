@@ -158,11 +158,11 @@ git config --global --list
 
 * 接著登入 [GitHub](https://github.com)，點開右上角的頭像，找到「Settings」：
 
-  <img src="image-5.png" width="500px">
+  <img src="image-5.png" width="400px">
 
 * 進入「Settings」後，點開左側選單中的「SSH and GPG keys」：
 
-  <img src="image-6.png" width="500px">
+  <img src="image-6.png" width="400px">
 
 * 點開綠色的「**New SSH key**」按鈕，在「Title」欄位填入一個描述（例如：`My Laptop`），並將剛才複製的 `id_rsa.pub` 的內容貼到「Key」欄位中，最後點擊「**Add SSH key**」：
 
